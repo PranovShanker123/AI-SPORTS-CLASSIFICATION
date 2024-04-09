@@ -25,12 +25,12 @@ Random image url of a sport from the test dataset
              
 
 # Authors and Co-Authors:
-U Pranov Shanker
-Sibin Paulraj
-Vishrranth.S
-Shakthevell
-Pranav R P
-Vidyuth Rajesh
+U Pranov Shanker, 
+Sibin Paulraj, 
+Vishrranth.S, 
+Shakthevell, 
+Pranav R P, 
+Vidyuth Rajesh.
 
 # Results and Discussion:
 The AI sports classification model demonstrates promising capabilities in accurately identifying and classifying different sports activities from images. Through the utilization of convolutional neural networks and the provided dataset, the model showcases the potential for applications in sports analytics, motion analysis, and visual recognition tasks. The collaboration of authors in developing this model signifies a collective effort towards creating innovative solutions in the domain of sports-related AI technologies.
