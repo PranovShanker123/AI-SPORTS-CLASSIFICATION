@@ -16,8 +16,6 @@ The core of the project lies in the development and implementation of the AI spo
 # Google Colab Notebook Implementation:
 The project's main code is housed within the "SPORTS.ipynb" notebook, accessible through the provided link. This notebook encapsulates the AI model's development, training, and validation processes, enabling users to delve into the intricacies of sports image classification through machine learning algorithms. Essential dependencies such as TensorFlow, NumPy, Matplotlib, sklearn, and os are utilized within the notebook for seamless execution of the model.
 
-LINK:  SPORTS.ipynb - Colaboratory (google.com)
-
 # Output Screenshots:
 Displaying 10 random images from the whole dataset
 
