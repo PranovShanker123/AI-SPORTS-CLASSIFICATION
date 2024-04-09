@@ -7,7 +7,7 @@ This project introduces an Artificial Intelligence (AI) sports classification mo
 # Keywords: 
 Artificial Intelligence, Sports Classification, Convolutional Neural Networks, Machine Learning, Image Recognition.
 
-# #Introduction:
+# Introduction:
 The AI sports classification model project focuses on leveraging machine learning tools to develop a robust model for classifying sports based on visual data. By harnessing the power of deep learning architectures, the project aims to enhance the accuracy and efficiency of sports image classification. This readme file presents an overview of the project's objectives, methods, dataset, dependencies, authors, and acknowledgments, highlighting the significance of AI-driven sports classification systems.
 
 # Methodology and techniques used:
