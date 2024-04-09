@@ -32,7 +32,9 @@ Vidyuth Rajesh.
 
 # Results and Discussion:
 The AI sports classification model demonstrates promising capabilities in accurately identifying and classifying different sports activities from images. Through the utilization of convolutional neural networks and the provided dataset, the model showcases the potential for applications in sports analytics, motion analysis, and visual recognition tasks. The collaboration of authors in developing this model signifies a collective effort towards creating innovative solutions in the domain of sports-related AI technologies.
-Conclusion:
+
+
+# Conclusion:
 In conclusion, the AI sports classification model represents a significant advancement in the realm of sports image analysis and classification. By incorporating deep learning techniques and a comprehensive dataset, the model showcases the efficacy of machine learning in automating sports recognition tasks. The project not only contributes to the research community but also underscores the potential of AI-driven systems in revolutionizing sports analytics and visual data processing.
 
  
