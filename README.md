@@ -2,7 +2,7 @@
 Artificial Intelligence Sports Classification Model: Development, Implementation, and Evaluation
 
 # Abstract:
-This project introduces an Artificial Intelligence (AI) sports classification model designed to classify different sports based on images using machine learning techniques. By employing deep learning methodologies, specifically convolutional neural networks (CNNs), the model aims to accurately identify and categorize various sports activities depicted in images. The project utilizes a dataset comprising 14,795 sports images sourced from Kaggle and stored in a folder named "SportsImages," uploaded to Google Drive for seamless access in the Google Colab environment.
+This project introduces an Artificial Intelligence (AI) sports classification model designed to classify different sports based on images using machine learning techniques. By employing deep learning methodologies, specifically convolutional neural networks (CNNs), the model aims to accurately identify and categorize various sports activities depicted in images. The project utilizes a dataset comprising 14,795 sports images sourced from Kaggle and stored in a folder named "SportsImages," uploaded to Google Drive for seamless access in the Google Colab environment. The accuracy obtained was 98%
 
 # Keywords: 
 Artificial Intelligence, Sports Classification, Convolutional Neural Networks, Machine Learning, Image Recognition.
